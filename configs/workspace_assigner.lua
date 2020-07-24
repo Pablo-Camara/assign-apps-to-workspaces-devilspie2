@@ -22,6 +22,7 @@ else
         or winName == "Postman"
         or winName == "KCachegrind"
         or winName == "Poedit"
+        or winName == "Spotify"
     then
         set_window_workspace(2);
     end
