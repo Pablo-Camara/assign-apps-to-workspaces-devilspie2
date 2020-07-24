@@ -1,0 +1,1 @@
+bash -c 'devilspie2 --folder ./debug --debug;'
